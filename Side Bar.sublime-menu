@@ -1,0 +1,7 @@
+[
+{
+	"id": "parse_certificate_menu",
+	"caption": "Parse this as a certificate",
+	"command": "parse_certificate"
+}
+]
